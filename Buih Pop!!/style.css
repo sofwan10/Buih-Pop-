@@ -1,0 +1,9 @@
+body {
+    position: relative;
+    margin: 0;
+  }
+  canvas {
+    position: absolute;
+    cursor: crosshair;
+  }
+  
